@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Feel free to look arround
+Thanks to [GitHub](https://github.com/) for hosting this page.
 
-You can use the [editor on GitHub](https://github.com/Rabbit-A512/Rabbit-A512.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Table of contents
+- Current attempts
+- Learning resources and tools
+- Problems unsolved
+- Mood
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Current attempts
+Goals that I attempt to accomplish.
+- HTML & CSS & JS<br>
+Getting started in front-end programming.
+```js
+alert('Hello, world!');
 ```
+- Node.js<br>
+Catch a glimpse of javascript being a server-side language.
+```js
+console.log('Hello, NodeJS!');
+```
+- Fingerstyle Guitar & Music Theory<br>
+  - Make my own arrangement for every song that I love.<br>
+  - Create melodies to express my feelings.<br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Learning resources and tools
+- Git<br>
+[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- GitHub<br>
+[GitHub Guides](https://guides.github.com/)
+- JavaScript<br>
+[JavaScript 高级程序设计](https://book.douban.com/subject/10546125/)
+- Flask<br>
+[Flask Web开发](https://book.douban.com/subject/26274202/)
+- IDE(__free for educational use__)<br>
+[JetBrains](http://www.jetbrains.com/)
+- Editor<br>
+[Atom](https://atom.io/)
 
-### Jekyll Themes
+### Problems unsolved
+If you have any suggestion to the questions below, please contact me through [my github](https://github.com/Rabbit-A512).
+- Be a postgraduate or start my career?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rabbit-A512/Rabbit-A512.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Mood
+Nothing special.
